@@ -7,8 +7,6 @@ Django==4.0.2
 filelock==3.0.12
 gunicorn==20.1.0
 joblib==1.1.0
-mysql-connector-python==8.0.22
-mysqlclient @ file:///C:/Users/KIRTI/Downloads/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
 nltk==3.6.7
 protobuf==3.13.0
 pygame==2.0.1
